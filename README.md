@@ -1,2 +1,1 @@
-# Projeto-Conecta-Heroku
-Deploy
+# ProjetoConecta
